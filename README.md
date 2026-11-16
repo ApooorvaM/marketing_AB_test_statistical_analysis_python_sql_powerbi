@@ -113,4 +113,4 @@ marketing-ab-test-analysis/
 
 ## Author
 
-**Apoorva Maheshwari** · [LinkedIn](https://www.linkedin.com/in/m-apoorva-05b1b2b8/) · [GitHub]((https://github.com/ApooorvaM))
+**Apoorva Maheshwari** · [LinkedIn](https://www.linkedin.com/in/m-apoorva-05b1b2b8/) · [GitHub](https://github.com/Apooorva)
